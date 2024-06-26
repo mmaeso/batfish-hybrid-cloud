@@ -1,0 +1,10 @@
+{
+  "hostname": "srv-201",
+  "hostInterfaces": {
+    "eth0": {
+      "name": "eth0",
+      "prefix": "10.0.0.50/24",
+      "gateway": "10.0.0.1"
+    }
+  }
+}
